@@ -164,15 +164,8 @@ x \href{why-equal.html}{=} y^2 + 1
 @$$@
 (x+1)^2 = \cssId{step1}{\style{visibility:hidden}{(x+1)(x+1)}}
 @$$@</pre>
-                <h2>游乐场</h2>
                 <br>
-                <div class="editor">
-                    <textarea id="myEditor" class="hidden">GEEK 们，玩起来！</textarea>
-                </div>
             </div>
-        </div>
-        <div class="col-sm-3">
-           <div class="widget-box"></div>
         </div>
         </div>
     </div>
